@@ -1,0 +1,134 @@
+
+.outlet{
+  background-image: url(../public/image/Mask\ Group.png) !important;
+  width: 100% !important;
+  height: 100vh !important;
+  
+  
+}
+.outlet1{
+  background-image: url(../public/image/Rectangle\ 1105.png) !important;
+  width: 100% !important;
+  height: 20vh !important; 
+   
+}
+.skin{
+  background: rgb(231, 182, 109);
+  border-radius: 1px 1px 25px 25px ;
+}
+ul li:hover{
+  cursor: pointer;
+  color: rgb(238, 221, 177);
+  border-bottom: 2px solid wheat;
+  
+}
+
+.info{
+  font-size: 2vh;
+  justify-content: center;
+  /* margin-top: 20vh ;
+  margin-left: 2vh; */
+  
+}
+.gold{
+  color: rgb(229, 184, 11) ;
+  /* color: rgb (229, 184, 11); */
+}
+.create{
+    width: 20%;
+    overflow: hidden !important;
+    height: 30vh;
+    border-radius: 10px;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+   transition: .1s ease-in-out all;
+   
+}
+.list{
+  width: 20%;
+    overflow: hidden !important;
+    height: 30vh;
+    border-radius: 10px;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+   transition: .1s ease-in-out all;
+
+
+}
+.agent{
+  width: 20%;
+  overflow: hidden !important;
+  height: 30vh;
+  border-radius: 10px;
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+ transition: .1s ease-in-out all;
+
+}
+.mrow{
+  height: 40vh;
+
+}
+.container-fluid{
+  background: rgb(243, 243, 236) ;
+  border-radius: 12px;
+  height: 50vh !important;
+
+}
+.create:hover{
+  border: 5px solid rgb(141, 153, 165);
+  
+  box-shadow: 0px 0px 50px 10px lightblue;
+ transform: scale(1.1);  
+}
+
+.list:hover{
+  border: 5px solid rgb(141, 153, 165);
+  
+  box-shadow: 0px 0px 50px 10px lightblue;
+ transform: scale(1.1);  
+}
+
+.agent:hover{
+  border: 5px solid rgb(141, 153, 165);
+  
+  box-shadow: 0px 0px 50px 10px lightblue;
+ transform: scale(1.1);  
+}
+.btn1{
+  width: 100%;
+  
+}
+.log{
+  width: 50%;
+  margin: auto;
+  height: 70vh;
+  /* background-color: rgb(218, 180, 92); */
+  background-image: linear-gradient(135deg, #ffe259 10%, #ffa751 100%);
+  /* box-shadow: 0 0 2px 00px navy; */
+  color: navy ;
+  text-align: center;
+  border: 1px solid rgb(206, 203, 203);  
+  border-radius: 5px;
+  /* overflow-x: hidden; */
+
+  
+}
+.need-help{
+    border-bottom: 1px solid black;
+    cursor: pointer;
+  
+}
+.log-btn{
+  width: 30%;
+  border-radius: 5px ;
+  border: none;
+  background: navy;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  cursor: pointer;
+  color: azure;
+}
+.info-2{
+  color: navy;
+}
+.link-warning{
+  border-bottom: 2px solid rgb(191, 155, 10) ;
+  
+}
